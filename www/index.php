@@ -44,7 +44,8 @@ echo $contents; } ?>
 <!-- end of project description -->
 
 <p> 
-We are developping the kmeans algorithm and its Bayesian variants.
+We are developping the kmeans algorithm and its Bayesian variants using CUDA, targeting Tesla K40.
+The functions will be exported into R through a simple wrapper.
 <div style="text-align: center">
 
 <img src="cuda.jpg" width="400" height="182" alt="">
