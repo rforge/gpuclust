@@ -44,7 +44,11 @@ echo $contents; } ?>
 <!-- end of project description -->
 
 <p> No content added. </p>
+<div style="text-align: center">
 
+<img src="cuda.jpg" width="400" height="182" alt="">
+
+</div>
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
 </body>
